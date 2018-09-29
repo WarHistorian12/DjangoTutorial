@@ -33,6 +33,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     # Add your apps here to enable them
+    'FirstDjangoApp',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
